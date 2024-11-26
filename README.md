@@ -14,7 +14,7 @@ Power BI: For creating and visualizing data insights.
 Excel / CSV Files: To store and manage raw gym data inputs.
 Data Cleaning & Transformation: Applied in Power BI for preparing the dataset.
 
-#Objectives
+# Objectives
 To provide a clear picture of gym performance and progress.
 To motivate users by visualizing their fitness journey.
 To identify areas for improvement and adjust workout plans accordingly.
